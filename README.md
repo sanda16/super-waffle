@@ -1,1 +1,2 @@
-# super-waffle
+# MOLE
+Crime detecting app
